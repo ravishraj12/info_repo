@@ -1,0 +1,4 @@
+*.txt
+images/
+data/check.log
+!myfile.txt
